@@ -1,6 +1,6 @@
 # Tipos de Token, usos e interfaces
 
-|   |  ERC20  | ERC721 | ERC77 | ERC1155 |
+|   |  ERC20  | ERC721 | ERC777 | ERC1155 |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 |Tipo de token|Fungible|No Fungible|Fungible|Multitoken|
 |Interfaces   |IERC20|IERC721|IERC20, IERC777|IERC1155|
